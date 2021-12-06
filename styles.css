@@ -1,0 +1,83 @@
+
+h1,sup,h5,a{
+     font-family: Heebo;
+
+}
+p{
+  margin-top: 2rem;
+  font-family: arial;
+  font-size: 13px;
+
+}
+
+.card-body>a{
+  text-align: center;
+  display: block;
+  margin-top: 100px;
+
+}
+
+.inside p{
+  margin:0;
+}
+
+
+.mobile-screen{
+  padding: 3rem 1rem;
+}
+.carousel-indicators {
+
+   bottom: -15px;
+ }
+ .carousel-indicators li {
+     width: 10px;
+     height: 10px;
+     background-color: #D3D3D3 ;
+    opacity: 0.5;
+     border-radius: 100%;
+ }
+ .carousel-indicators .active{
+   background-color: gray;
+   opacity: 1;
+ }
+
+
+.card-title{
+  font-family: Heebo;
+  font-weight: bold;
+  margin-bottom:2rem;
+  padding: 1rem 1rem;
+  text-align: center;
+  border-bottom: 3px solid #F7F7F7;
+}
+
+.container{
+    background-color: #FEE440;
+    margin-top: 5rem;
+
+
+}
+.card{
+  margin: 2rem auto;
+
+}
+
+.inside{
+  text-align: center;
+  background-color: #EFF8FF;
+}
+
+.mobile-screen{
+  background-color: #FEE440;
+}
+.trapezoid {
+  position: relative ;
+  bottom:3rem;
+  right: 4rem;
+	border-bottom: 30px solid #FEE440;
+	border-left: 45px solid transparent;
+	border-right: 45px solid transparent;
+	height: 0;
+	width: 130px;
+   transform: rotate(-43deg);
+}
